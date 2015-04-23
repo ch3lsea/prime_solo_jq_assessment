@@ -1,0 +1,29 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	text-align: center;
+}
+
+#one {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	height: 40px;
+	width: 100px;
+	border-radius: 5px;
+	background-color: #3366CC;
+}
+
+#color, #remove, .text {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+#container3:first-child {
+	margin-top: 40px;
+}
+
+.red {
+	color: red;
+}
